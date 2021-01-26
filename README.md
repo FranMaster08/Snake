@@ -11,7 +11,7 @@ _Solo debes abrir el archivo index.html y comenzar_
 
 ## Modo Gamer 🎮
 Si solo quieres Jugar ingresa a el siguiente Link:
-``  ``
+``https://franmaster08.github.io/Snake/.``
 
 ## Construido con 🛠️
 
