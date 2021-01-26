@@ -9,7 +9,9 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 
 _Solo debes abrir el archivo index.html y comenzar_
 
-
+## Modo Gamer 🎮
+Si solo quieres Jugar ingresa a el siguiente Link:
+``  ``
 
 ## Construido con 🛠️
 
